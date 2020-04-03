@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Xposed WeChat Shortcut</string>
+    <string name="app_xposed_desc">Add various shortcuts on WeChat launcher icon.</string>
+
+    <string name="shortcut_scan_label_short">Scan QRCode</string>
+    <string name="shortcut_scan_label_long">Open the QRCode scanner</string>
+</resources>

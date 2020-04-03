@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">微信捷徑</string>
+    <string name="app_xposed_desc">增加微信啟動圖示的捷徑</string>
+    <string name="shortcut_scan_label_short">掃描 QRCode</string>
+    <string name="shortcut_scan_label_long">開啟 QRCode 掃描器</string>
+</resources>
